@@ -1,3 +1,7 @@
+What does a wallet do? 
+Wallet is mean to store keys.
+
+
 Code: ** Could not get to execute
 
 
